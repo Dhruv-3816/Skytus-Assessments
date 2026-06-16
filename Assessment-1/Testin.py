@@ -1,4 +1,0 @@
-# THI IS A TESTING FILE
-
-
-print("HELLO WORLD")
